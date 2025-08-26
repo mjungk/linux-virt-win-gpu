@@ -154,6 +154,7 @@ Follow [the guide for the initial VM setup and installation](VM_CONFIG_INSTALL.m
 ---
 
 <h3> 1. Download and Install on Windows (Host) </h3>
+
 1. Visit the official [Looking Glass Downloads](https://looking-glass.io/downloads) page.
 2. Download the latest **Windows Host** release (matching the version you will use on Linux).
 3. Extract the archive and run the installer.
@@ -175,6 +176,7 @@ Follow [the guide for the initial VM setup and installation](VM_CONFIG_INSTALL.m
 ---
 
 <h3> 3. Client Configuration on Linux </h3>
+
 The Linux client can be configured via `/etc/looking-glass-client.ini`.  
 Full configuration options are documented here: [Looking Glass Client Configuration](https://looking-glass.io/docs/stable/usage/).
 
@@ -202,6 +204,7 @@ rawMouse=yes
 ---
 
 <h3> 4. Install the Required Kernel Module </h3>
+
 Looking Glass now uses the **`kvmfr`** kernel module for shared memory.  
 The older method of creating a shared memory file manually is **no longer recommended**.  
 Follow the official documentation for installation: [KVMFR Module Setup](https://looking-glass.io/docs/stable/ivshmem_kvmfr).
