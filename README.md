@@ -58,7 +58,7 @@ Thanks to [@tatumroaquin's Guide](https://gist.github.com/tatumroaquin/c6464e1cc
 ### Install the necessary packages
 
 [Arch Guide](QUEMU_KVM_INSTALL_ARCH.md)  
-[Fedora Guide](QUEMU_KVM_INSTALL_ARCH.md)
+[Fedora Guide](QUEMU_KVM_INSTALL_FEDORA.md)
 
 ### Enabling the libvirt Daemon
 
